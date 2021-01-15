@@ -1,0 +1,71 @@
+body{
+    font-family: 'Josefin Sans', sans-serif;
+}
+.logo{
+    width: 300px;
+}
+ul li a{
+ 
+margin-left: 50px;
+}
+button img{
+    height: 40px;
+   
+}
+div> img{
+    width: 90%;
+}
+.bg-color{
+    background-color: #fff3e6;
+}
+.Penguin-card img{
+   height: 350px;
+    background-color: whitesmoke;
+    border: 15px solid white;
+    border-radius: 40px;
+} 
+.Penguin-card{
+    border: 0;
+    border-radius: 20px;
+    margin: 10px;
+    height: 100px;
+}
+
+.price-tag{
+    color:orange;
+    font-weight: bolder;
+}
+.card-title-h4{
+    
+    font-weight: bold;
+}
+.section-title{
+    font-weight: bold;
+}
+.slide-bar img{
+    height: 80px;
+    width: 80px;
+}
+.slider-part{
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+.slide-bar-sec{
+    border-radius: 20px;
+    margin-top: 10px;
+}
+.footer-sec{
+    background-color: wheat;
+    padding: 5px;
+    margin-top: 10px;
+}
+.Penguin-card-img{
+    width: 100%;
+    height: 250px;
+    object-fit: contain;
+}
+.my-button-color{
+    background-color: #8ea926;
+}
+
+
